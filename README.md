@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **TensorFlow, Pandas, Python**
 
-- 📫 How to reach me **einaik08@gmail.co**
+- 📫 How to reach me **einaik08@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

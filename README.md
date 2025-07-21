@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ejnaik&label=Profile%20views&color=0e75b6&style=flat" alt="ejnaik" /> </p>
 
-- 🎓I’m currently Pursuing **MTech in Computer Science and Engineering at IIT Gandhinagar**
+- 🎓I’m currently Pursuing **MTech in Industrial Engineering & Operation Research at IIT delhi**
 
 - 🎓I Have completed my BTech From **IIT Dhanbad**
 

@@ -30,26 +30,19 @@
 </div>
 
 ---
+##  About Me
 
-## 🌟 About Me
+*   **👤 Name:** Ejisay Naik
+*   **🌍 Location:** 🇮🇳 India
+*   **💼 Role:** Data Science Enthusiast
+*   **📧 Email:** [ejnaik08@gmail.com](mailto:ejnaik08@gmail.com)
+*   **🌱 Currently Learning:** AMPL, R, Python Libraries, ML, Statistics, DSA
+*   **⚡ Hobbies:** 🎵 Music, ⚽ Sports, ✍️ Odia Poem Writing
+*   **🤝 Open To:** Collaborating on interesting & impactful projects
 
-```python
-class EjisayNaik:
-    def __init__(self):
-        self.name       = "Ejisay Naik"
-        self.location   = "🇮🇳 India"
-        self.role       = "Data Science Enthusiast"
-        self.email      = "ejnaik08@gmail.com"
-        self.learning   = ["AMPL", "R", "Python Libraries", "ML", "Statistics", "DSA"]
-        self.hobbies    = ["🎵 Music", "⚽ Sports", "✍️ Odia Poem Writing"]
-        self.open_to    = "Collaborating on interesting & impactful projects"
+> *"Thanks for visiting! Let's build something amazing together 🚀"*
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together 🚀")
 
-me = EjisayNaik()
-me.say_hi()
-```
 
 ---
 
@@ -88,33 +81,6 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ejnaik08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejnaik08&layout=compact&theme=tokyonight&border_radius=12&hide_border=false&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ejnaik08&theme=tokyonight&border_radius=12&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ejnaik08&theme=tokyo-night&hide_border=true&area=true&area_color=00d2ff" width="95%" alt="Activity Graph" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ejnaik08&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=1" />
-</div>
-
----
 
 ## 🎯 Currently Focused On
 

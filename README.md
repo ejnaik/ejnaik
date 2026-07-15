@@ -1,142 +1,184 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a3d62,60:1e6f9f,100:00d2ff&height=220&section=header&text=EJISAY%20NAIK&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20AI%2FML%20%7C%20Optimization&descAlignY=58&descSize=22&descColor=a8edfc" />
+<!-- Custom Navy / Orange Corporate Header Banner -->
+<img width="100%" src="./assets/banner-header.svg" alt="Ejisay Naik banner" />
 
-<!-- Animated Typing -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast+%F0%9F%93%8A;AI+%2F+ML+Explorer+%F0%9F%A4%96;Optimization+Researcher+%F0%9F%94%AC;Odia+Poem+Writer+%26+Music+Lover+%F0%9F%8E%BC;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
-</a>
+</div>
 
 <br/>
 
-<!-- Profile Views & Social Badges -->
+<div align="center">
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ejnaik08&label=Profile+Views&color=0d76e3&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ejnaik08&label=Profile+Views&color=FF6B35&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
   <a href="https://www.linkedin.com/in/ejisay-naik/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ejisay%20Naik-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0B1330?style=for-the-badge&logo=linkedin&logoColor=FF6B35" />
   </a>
   &nbsp;
   <a href="mailto:ejnaik08@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ejnaik08%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Say%20Hi-0B1330?style=for-the-badge&logo=gmail&logoColor=FF6B35" />
   </a>
   &nbsp;
   <a href="https://www.facebook.com/ejisay.naik/">
-    <img src="https://img.shields.io/badge/Facebook-Ejisay%20Naik-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-Follow-0B1330?style=for-the-badge&logo=facebook&logoColor=FF6B35" />
   </a>
 </p>
 
+<img width="100%" src="./assets/divider.svg" alt="divider" />
 </div>
 
----
-##  About Me
-
-*   **👤 Name:** Ejisay Naik
-*   **🌍 Location:** 🇮🇳 India
-*   **💼 Role:** Data Science Enthusiast
-*   **📧 Email:** [ejnaik08@gmail.com](mailto:ejnaik08@gmail.com)
-*   **🌱 Currently Learning:** AMPL, R, Python Libraries, ML, Statistics, DSA
-*   **⚡ Hobbies:** 🎵 Music, ⚽ Sports, ✍️ Odia Poem Writing
-*   **🤝 Open To:** Collaborating on interesting & impactful projects
-
-> *"Thanks for visiting! Let's build something amazing together 🚀"*
-
-
-
----
-
-## 🛠️ Tech Stack & Tools
+<br/>
 
 <div align="center">
 
-### 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,r&theme=dark" />
+## ◆ ABOUT ME
+
+<br>
+
+<p align="center">
+  <b> Name:</b> Ejisay Naik &nbsp;|&nbsp; 
+  <b> Location:</b> India &nbsp;|&nbsp; 
+  <b> Role:</b> Data Science Enthusiast
 </p>
 
-### 🌐 Web & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,mongodb,mysql&theme=dark" />
+<p align="center">
+  <b> Email:</b> <a href="mailto:ejnaik08@gmail.com">ejnaik08@gmail.com</a>
 </p>
 
-### ☁️ Cloud, OS & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=azure,linux,ubuntu,vscode,ps&theme=dark" />
+<p align="center">
+  <b> Currently Learning:</b> RESTfull API, FastAPI, AWS, TensorFlow, Hadoop, Spark, Google AI Studio, DSA <br>
+  <b> Hobbies:</b> Music &nbsp;|&nbsp; Sports &nbsp;|&nbsp; Odia Poem Writing <br>
+  <b> Open To:</b> Collaborating on interesting & impactful projects
 </p>
 
-### 🤖 AI / ML / Data Science
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
+<br>
+
+<i><b>"Thanks for visiting! Let's build something amazing together."</b></i>
+
+<br><br>
+
+<img width="100%" src="./assets/divider.svg" alt="divider" />
 
 </div>
 
----
-
-
-## 🎯 Currently Focused On
+## &#9670;&nbsp; CURRENTLY FOCUSED ON
 
 <div align="center">
 
-| 🔬 Area | 📚 Topics |
-|:---|:---|
-| **Machine Learning** | Supervised & Unsupervised Learning, Model Tuning |
-| **Optimization** | AMPL, Linear Programming, Metaheuristics |
-| **Statistics** | Probability, Hypothesis Testing, Bayesian Methods |
-| **Data Structures** | Algorithms, Complexity Analysis |
-| **Languages** | Deep-diving into R & Advanced Python Libraries |
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Supervised%20%7C%20Unsupervised%20%7C%20Model%20Tuning-0B1330?style=for-the-badge&labelColor=FF6B35&logoColor=white)
+![Optimization](https://img.shields.io/badge/Optimization-AMPL%20%7C%20LP%20%7C%20Metaheuristics-0B1330?style=for-the-badge&labelColor=FF6B35&logoColor=white)
+
+![Statistics](https://img.shields.io/badge/Statistics-Probability%20%7C%20Hypothesis%20Testing%20%7C%20Bayesian-0B1330?style=for-the-badge&labelColor=FF6B35&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-Algorithms%20%7C%20Complexity-0B1330?style=for-the-badge&labelColor=FF6B35&logoColor=white)
+![Languages](https://img.shields.io/badge/Languages-R%20%26%20Advanced%20Python-0B1330?style=for-the-badge&labelColor=FF6B35&logoColor=white)
 
 </div>
 
----
+<img width="100%" src="./assets/divider.svg" alt="divider" />
 
-## 🌈 Fun Facts About Me
+## &#9670;&nbsp; TECH STACK
 
 <div align="center">
 
-🎵 &nbsp; I find rhythm in both **data patterns** and **music**
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,js,java,html,py,r,powershell&perline=9" />
 
-✍️ &nbsp; I write **Odia poems** — blending culture with creativity
+<br/><br/>
 
-⚽ &nbsp; Sports teach me the value of **strategy and persistence**
+**Cloud, Backend & Data Engineering**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,fastapi,django,kafka&perline=9" />
 
-🌍 &nbsp; Based in **India**, building globally relevant solutions
+<br/><br/>
 
-💡 &nbsp; I believe **curiosity + consistency = breakthroughs**
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=dynamodb,mysql,mongodb,sqlite&perline=9" />
+
+<br/><br/>
+
+**AI / ML Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,matlab&perline=9" />
+
+<br/><br/>
+
+**Data Science Libraries**
+<br/>
+![NumPy](https://img.shields.io/badge/NumPy-0B1330?style=for-the-badge&logo=numpy&logoColor=FF6B35)
+![Pandas](https://img.shields.io/badge/Pandas-0B1330?style=for-the-badge&logo=pandas&logoColor=FF6B35)
+![SciPy](https://img.shields.io/badge/SciPy-0B1330?style=for-the-badge&logo=scipy&logoColor=FF6B35)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0B1330?style=for-the-badge&logo=plotly&logoColor=FF6B35)
+![Plotly](https://img.shields.io/badge/Plotly-0B1330?style=for-the-badge&logo=plotly&logoColor=FF6B35)
+![Keras](https://img.shields.io/badge/Keras-0B1330?style=for-the-badge&logo=keras&logoColor=FF6B35)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-0B1330?style=for-the-badge&logo=apachespark&logoColor=FF6B35)
+![Apache Hadoop](https://img.shields.io/badge/Hadoop-0B1330?style=for-the-badge&logo=apachehadoop&logoColor=FF6B35)
+
+<br/><br/>
+
+**Creative Suite**
+<br/>
+<img src="https://skillicons.dev/icons?i=ps,pr,ai&perline=9" />
+![Canva](https://img.shields.io/badge/Canva-0B1330?style=for-the-badge&logo=canva&logoColor=FF6B35)
+![Lightroom](https://img.shields.io/badge/Lightroom-0B1330?style=for-the-badge&logo=adobelightroom&logoColor=FF6B35)
 
 </div>
 
----
+<img width="100%" src="./assets/divider.svg" alt="divider" />
 
-## 🤝 Let's Connect & Collaborate!
+## &#9670;&nbsp; GITHUB STATS
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=ejnaik&hide_border=true&include_all_commits=false&count_private=true&bg_color=0B1330&title_color=FF6B35&icon_color=FF6B35&text_color=ffffff" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ejnaik&hide_border=true&include_all_commits=false&count_private=true&layout=compact&bg_color=0B1330&title_color=FF6B35&text_color=ffffff" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=ejnaik&hide_border=true&background=0B1330&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=C9D1E0" />
+
+</div>
+
+## &#9670;&nbsp; GITHUB TROPHIES
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=ejnaik&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7)
+
+</div>
+
+<img width="100%" src="./assets/divider.svg" alt="divider" />
+
+## &#9670;&nbsp; LET'S CONNECT
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ejisay-naik/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0B1330?style=for-the-badge&logo=linkedin&logoColor=FF6B35" />
 </a>
 &nbsp;
 <a href="mailto:ejnaik08@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-0B1330?style=for-the-badge&logo=gmail&logoColor=FF6B35" />
 </a>
 &nbsp;
 <a href="https://www.facebook.com/ejisay.naik/">
-  <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Facebook-Follow-0B1330?style=for-the-badge&logo=facebook&logoColor=FF6B35" />
 </a>
 
 <br/><br/>
 
-> *"Data is the new oil, but insights are the engine."* 🔥
+> *"Data is the new oil, but insights are the engine."*
+
+<br/>
+
+[![](https://komarev.com/ghpvc/?username=ejnaik&icon=0&color=FF6B35&style=for-the-badge)](https://visitcount.itsvg.in)
 
 </div>
 
-<!-- Animated Footer Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,50:1e6f9f,100:0d1117&height=120&section=footer&animation=fadeIn" />
+<!-- Custom Navy / Orange Corporate Footer Banner -->
+<img width="100%" src="./assets/banner-footer.svg" alt="footer banner" />
+
+<div align="center">
+<sub>@July 2026</sub>
+</div>

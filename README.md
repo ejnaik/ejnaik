@@ -1,8 +1,9 @@
 <div align="center">
 
 <!-- Custom Navy / Orange Corporate Header Banner -->
-<img width="100%" src="./assets/banner-header.svg" alt="Ejisay Naik banner" />
-
+<a href="https://github.com/ejnaik/Project_Files">
+  <img width="100%" src="./assets/banner-header.svg" alt="Ejisay Naik banner" />
+</a>
 </div>
 
 <br/>

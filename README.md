@@ -65,12 +65,10 @@
 
 <div align="center">
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Supervised%20%7C%20Unsupervised%20%7C%20Model%20Tuning-0B1330?style=for-the-badge&labelColor=FF6B35&logoColor=white)
-![Optimization](https://img.shields.io/badge/Optimization-AMPL%20%7C%20LP%20%7C%20Metaheuristics-0B1330?style=for-the-badge&labelColor=FF6B35&logoColor=white)
-
+![Machine Learning & Optimization](https://img.shields.io/badge/Machine%20Learning-Supervised%20%7C%20Unsupervised%20%7C%20Model%20Tuning-0B1330?style=for-the-badge&labelColor=FF6B35&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-Probability%20%7C%20Hypothesis%20Testing%20%7C%20Bayesian-0B1330?style=for-the-badge&labelColor=FF6B35&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-Algorithms%20%7C%20Complexity-0B1330?style=for-the-badge&labelColor=FF6B35&logoColor=white)
-![Languages](https://img.shields.io/badge/Languages-R%20%26%20Advanced%20Python-0B1330?style=for-the-badge&labelColor=FF6B35&logoColor=white)
+![Languages](https://img.shields.io/badge/Languages-Python-0B1330?style=for-the-badge&labelColor=FF6B35&logoColor=white)
 
 </div>
 
@@ -137,14 +135,6 @@
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=ejnaik&hide_border=true&background=0B1330&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=C9D1E0" />
-
-</div>
-
-## &#9670;&nbsp; GITHUB TROPHIES
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=ejnaik&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7)
 
 </div>
 

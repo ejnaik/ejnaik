@@ -167,8 +167,11 @@
 
 </div>
 
-<!-- Custom Navy / Orange Corporate Footer Banner -->
-<img width="100%" src="./assets/banner-footer.svg" alt="footer banner" />
+<!-- Custom Navy / Orange Corporate Header Banner -->
+<a href="https://github.com/ejnaik">
+  <img width="100%" src="./assets/banner-footer.svg" alt="footer banner" />
+</a>
+
 
 <div align="center">
 <sub>@July 2026</sub>

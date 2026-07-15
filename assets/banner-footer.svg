@@ -1,0 +1,50 @@
+<svg width="1200" height="150" viewBox="0 0 1200 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradF" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00b4d8"/>
+      <stop offset="28%" stop-color="#5b2a86"/>
+      <stop offset="60%" stop-color="#231557"/>
+      <stop offset="100%" stop-color="#030014"/>
+    </linearGradient>
+    <radialGradient id="blobBlueF" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blobPinkF" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f472b6" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#f472b6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="textGradF" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#facc15"/>
+      <stop offset="50%" stop-color="#f0abfc"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="150" fill="url(#bgGradF)"/>
+  <circle cx="150" cy="110" r="160" fill="url(#blobBlueF)"/>
+  <circle cx="1050" cy="30" r="170" fill="url(#blobPinkF)"/>
+
+  <g stroke="#a5f3fc" stroke-width="1" opacity="0.28">
+    <line x1="90" y1="115" x2="190" y2="65"/>
+    <line x1="190" y1="65" x2="290" y2="105"/>
+    <line x1="290" y1="105" x2="390" y2="45"/>
+    <line x1="820" y1="45" x2="920" y2="105"/>
+    <line x1="920" y1="105" x2="1020" y2="60"/>
+    <line x1="1020" y1="60" x2="1120" y2="100"/>
+  </g>
+  <g fill="#fef9c3">
+    <circle cx="90" cy="115" r="2.6"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="190" cy="65" r="3"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="290" cy="105" r="2.4"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="390" cy="45" r="2.8"><animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="820" cy="45" r="2.8"><animate attributeName="opacity" values="0.4;1;0.4" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="920" cy="105" r="3"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.7s" repeatCount="indefinite"/></circle>
+    <circle cx="1020" cy="60" r="2.4"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="3.7s" repeatCount="indefinite"/></circle>
+    <circle cx="1120" cy="100" r="2.6"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.3s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <text x="600" y="85" text-anchor="middle" font-family="'Fira Code', monospace" font-size="20" letter-spacing="3" fill="url(#textGradF)">
+    Thanks for stopping by &#8226; Let's build something amazing 🚀
+  </text>
+</svg>
